@@ -114,9 +114,7 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
             <h2>Photos & Videos</h2>
             <img src="photo1.jpg" alt="Saber Uddin in hospital" class="media-image">
             <img src="photo2.jpg" alt="Medical Report" class="media-image">
-            <img src="photo2.jpg" alt= class="media-image">
-            <img src="photo2.jpg" alt= class="media-image">
-            <img src="photo2.jpg" alt= class="media-image">
+            
             <video controls>
                 <source src="Saber_Uddin.mp4" type="video/mp4">
                 Your browser does not support the video tag.
