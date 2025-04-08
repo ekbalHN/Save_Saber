@@ -101,7 +101,7 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
             <p><strong>IFSC Code:</strong> PUNB0RRBAGB</p>
            
             <!-- Donate Now Button with UPI Link -->
-<a href="upi://pay?pa=saberuddin23@ybl&pn=SABER%20UDDIN&cu=INR" target="_blank">
+<a href="upi://pay?pa=ekbalhussain2000b@pingpay&pn=SABER%20UDDIN&cu=INR" target="_blank">
   <button class="btn btn-success">Donate Now</button>
 </a>
 <p style="margin-top: 10px; font-size: 14px; color: gray;">
