@@ -101,7 +101,7 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
             <p><strong>IFSC Code:</strong> PUNB0RRBAGB</p>
            
             <!-- Donate Now Button with UPI Link -->
-<a href="upi://pay?pa=ekbalhussain2000b@pingpay&pn=SABER%20UDDIN&cu=INR" target="_blank">
+<a href="upi://pay?pa=uddin.saber@ybl&pn=SABER%20UDDIN&cu=INR" target="_blank">
   <button class="btn btn-success">Donate Now</button>
 </a>
 <p style="margin-top: 10px; font-size: 14px; color: gray;">
@@ -114,8 +114,11 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
             <h2>Photos & Videos</h2>
             <img src="photo1.jpg" alt="Saber Uddin in hospital" class="media-image">
             <img src="photo2.jpg" alt="Medical Report" class="media-image">
+            <img src="photo2.jpg" alt= class="media-image">
+            <img src="photo2.jpg" alt= class="media-image">
+            <img src="photo2.jpg" alt= class="media-image">
             <video controls>
-                <source src="video1.mp4" type="video/mp4">
+                <source src="Saber_Uddin.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
