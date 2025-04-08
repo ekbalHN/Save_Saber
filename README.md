@@ -99,7 +99,15 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
             <p><strong>Bank Name:</strong> Punjab National Bank (RRB)</p>
             <p><strong>Account Number:</strong> 7400010027928</p>
             <p><strong>IFSC Code:</strong> PUNB0RRBAGB</p>
-            <a href="#" class="donate-button">Donate Now</a>
+           
+            <!-- Donate Now Button with UPI Link -->
+<a href="upi://pay?pa=saberuddin23@ybl&pn=SABER%20UDDIN&cu=INR" target="_blank">
+  <button class="btn btn-success">Donate Now</button>
+</a>
+<p style="margin-top: 10px; font-size: 14px; color: gray;">
+  (Tap the button to donate via UPI. Works best on mobile apps like Google Pay, PhonePe, Paytm.)
+</p>
+
         </div>
 
         <div class="media-section">
