@@ -67,40 +67,48 @@ Help Saber Uddin from Kamrup, Assam who is suffering from total kidney failure. 
         <h1>Help Saber Uddin – A Young Life Needs Saving</h1>
 
         <p>
-            Saber Uddin is a young man from <strong>Kamrup, Assam</strong>, who studied <strong>Diploma in Pharmacy (2018–21)</strong>
-            at the <strong>Institute of Pharmacy, Assam Medical College, Dibrugarh</strong>. He was a bright and friendly student
-            full of dreams for the future.
-        </p>
+    Saber Uddin is a young man from <strong>Kamrup, Assam</strong>, who studied <strong>Diploma in Pharmacy (2018–21)</strong>
+    at the <strong>Institute of Pharmacy, Assam Medical College, Dibrugarh</strong>. He was a bright and friendly student
+    full of dreams for the future.
+</p>
 
-        <p>
-            Unfortunately, Saber has been diagnosed with <span class="highlight">complete kidney failure</span>. The only way to save
-            his life is through a <strong>kidney transplant</strong>, which along with his medical care will cost around
-            <span class="highlight">15–20 lakh rupees</span> — a huge burden for his family.
-        </p>
+<p>
+    Unfortunately, Saber has been diagnosed with <span class="highlight">complete kidney failure</span>. The only way to save
+    his life is through a <strong>kidney transplant</strong>, which along with his medical care will cost around
+    <span class="highlight">15–20 lakh rupees</span> — a huge burden for his family.
+</p>
 
-        <p>
-            We are asking for your support. <strong>Every donation counts</strong>. Even the smallest help can bring Saber closer
-            to a healthy life again. The joy of giving and saving a life is a blessing in itself.
-        </p>
+<p>
+    We are asking for your support. <strong>Every donation counts</strong>. Even the smallest help can bring Saber closer
+    to a healthy life again. The joy of giving and saving a life is a blessing in itself.
+</p>
 
-        <p>
-            Please also <strong>share this page</strong> with others so it reaches more kind-hearted people.
-        </p>
+<p>
+    Please also <strong>share this page</strong> with others so it reaches more kind-hearted people.
+</p>
 
-        <div class="qr-section">
-            <h2>Scan to Donate</h2>
-            <img src="qr-code-placeholder.png" alt="Donation QR Code" class="qr-image">
-            <p style="text-align:center;">(Please scan this QR code to donate)</p>
-        </div>
+<div class="qr-section">
+    <h2>Scan to Donate</h2>
+    <a href="upi://pay?pa=saber.uddin@ybl&pn=SABER%20UDDIN">
+        <img src="qr-code-placeholder.png" alt="Donation QR Code" class="qr-image">
+    </a>
+    <p style="text-align:center;">(Please scan this QR code or click it to donate via UPI)</p>
+</div>
 
-        <div class="bank-section">
-            <h2>Bank Account Details</h2>
-            <p><strong>Account Holder Name:</strong> SABER UDDIN</p>
-            <p><strong>Bank Name:</strong> Punjab National Bank (RRB)</p>
-            <p><strong>Account Number:</strong> 7400010027928</p>
-            <p><strong>IFSC Code:</strong> PUNB0RRBAGB</p>
-           
-            <!-- Donate Now Button with UPI Link -->
+<div class="bank-section">
+    <h2>Bank Account Details</h2>
+    <p><strong>Account Holder Name:</strong> SABER UDDIN</p>
+    <p><strong>Bank Name:</strong> Punjab National Bank (RRB)</p>
+    <p><strong>Account Number:</strong> 7400010027928</p>
+    <p><strong>IFSC Code:</strong> PUNB0RRBAGB</p>
+
+    <!-- Donate Now Button with UPI Link -->
+    <p style="text-align:center; margin-top: 20px;">
+        <a href="upi://pay?pa=saber.uddin@ybl&pn=SABER%20UDDIN" style="display:inline-block; padding:10px 20px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px;">
+            Donate via PhonePe / UPI
+        </a>
+    </p>
+</div>
 <a href="upi://pay?pa=uddin.saber@ybl&pn=SABER%20UDDIN&cu=INR" target="_blank">
   <button class="btn btn-success">Donate Now</button>
 </a>
